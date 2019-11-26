@@ -16,6 +16,7 @@ include ("top.php");
           </li>
 
           <li class="food-intro-item">
+<<<<<<< Updated upstream
             <img src="" alt="Food-2">
             <h2>Second, the Japanese value the "balance" of food.</h2>
             <p>Japanese cuisine is also known as "Washoku". This refers to the harmonious integration of various foods in Japanese culture. In China,
@@ -24,6 +25,12 @@ include ("top.php");
             <p>On the other hand, seasonality is also one of the important definitions of “Washoku”. Seasonal circulation deepens into Japanese culture,
             which is also reflected in their dress and food. Japanese people respect nature. They don't like cross-season food.
             They think that specific agricultural products can be harvested at specific time and made into food to ensure their nutrition and flavor.</p>
+=======
+            <h2>The Japanese value the "balance" of food</h2>
+            <p>Japanese cuisine is also known as "Washoku". This refers to the harmonious integration of various foods in Japanese culture. In China, there is a saying of "yin and yang". In addition to the influence of China, the Japanese also believe that food is also divided into "yin" and "yang". The combination of food needs to ensure the balance of "yin and yang".</p>
+            <p>On the other hand, seasonality is also one of the important definitions of “Washoku”. Seasonal circulation deepens into Japanese culture, which is also reflected in their dress and food. Japanese people respect nature. They don't like cross-season food. They think that specific agricultural products can be harvested at specific time and made into food to ensure their nutrition and flavor.</p>
+            <img src="" alt="Food-2">
+>>>>>>> Stashed changes
           </li>
 
           <li class="food-intro-item">
