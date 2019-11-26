@@ -1,0 +1,139 @@
+/*Global*/
+* {
+	transition-duration: 0.5s;
+  font-family: sans-serif;
+}
+
+header h1{
+  text-align: center;
+  color:#FFC408;
+}
+
+nav li{
+  width:  16%;
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  padding: 10px 0
+}
+
+a {
+  text-decoration: none;
+  color: #E83015;
+}
+
+nav a {
+  color: #FFC408;
+}
+
+.activePage {
+  background-color: white;
+  
+}
+
+.activePage a{
+  color: black;
+}
+
+body {
+  background-color: #434343;
+}
+
+img{
+  max-width: 100%;
+}
+
+/*Index*/
+body{
+  color: white;
+}
+
+.intro-container{
+  width: 90%;
+  margin: auto;
+}
+
+.food,.jp,.view,.share{
+  margin: 40px auto;
+  border: 2px solid white;
+}
+
+.food, .jp{
+  display: grid;
+  grid-template-columns:50% 50%;
+  grid-template-rows:40px auto 40px;
+}
+
+.view, .share{
+  display: grid;
+  grid-template-columns:50% 50%;
+  grid-template-rows:40px auto 40px;
+}
+
+.food a, .jp a{
+  grid-row: 3;
+  grid-column: 1/2;
+}
+
+.view a, .share a{
+  grid-row: 3;
+  grid-column: 2/3;
+}
+
+.intro button{
+  margin: auto;
+  height: 90%;
+  width: 80%;
+  background-color: gray;
+  background-color: white;
+  border: 2px solid #555555;
+  border-radius: 5px;
+  display: block;
+}
+
+.intro button:hover{
+  background-color: #555555;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24)
+}
+
+.food p, .jp p{
+  grid-row:2/3;
+  grid-column: 1/2;
+  margin: 0;
+}
+
+.view p, .share p{
+  grid-row: 2/3;
+  grid-column: 2/3;
+}
+
+.food figure, .jp figure{
+  grid-column: 2/3;
+  grid-row: 1/4;
+  margin: 0;
+}
+
+.view figure, .share figure{
+  grid-row: 1/4;
+  grid-column: 1/2;
+  margin: 0;
+}
+
+.food h2, .jp h2{
+  grid-column: 1;
+  margin: 0;  
+}
+
+.view h2, .share h2{
+  grid-column: 2;
+  margin: 0; 
+}
+
+/*FOOD*/
+.food-intro-container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+
