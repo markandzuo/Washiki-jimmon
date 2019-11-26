@@ -134,6 +134,15 @@ body{
 .food-intro-container{
   display: grid;
   grid-template-columns: auto auto auto;
+  grid-gap: 20px;
 }
 
+#food h2,#food h3{
+  text-align: center;
+}
 
+.food-list-container{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+}
