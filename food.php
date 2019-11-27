@@ -35,33 +35,33 @@ include ("top.php");
       <h3>Japanese traditional food recommendation</h3>
       <ul class="food-list-container">
         <li class="food-list-item">
-          <img src="" alt="{{菜品图示}}">
+          <img src="assets/images/sushi.jpg" alt="Sushi and Sashimi">
           <h4>Sushi and Sashimi</h4>
-          <p>One of my favorite Japanese food is also the most famous Japanese food. The common ones are salmon and tuna sushi and sashimi. Personally recommend traditional salmon sushi and caviar sushi. If you don't like raw food, try eel sashimi. Sashimi made from cooked food is also very common.</p>
+          <p class="food-list-hover">One of my favorite Japanese food is also the most famous Japanese food. The common ones are salmon and tuna sushi and sashimi. Personally recommend traditional salmon sushi and caviar sushi. If you don't like raw food, try eel sashimi. Sashimi made from cooked food is also very common.</p>
         </li>
 
         <li class="food-list-item">
-          <img src="" alt="{{菜品图示}}">
+          <img src="assets/images/ramen.jpg" alt="Ramen">
           <h4>Ramen</h4>
-          <p>Ramen is also a Japanese food. The usual ramen is tonkotsu soup and miso soup, which I also highly recommend. Other ramen with spicy curry soup or fish soup, friends who are interested must go to Japan to taste.</p>
+          <p class="food-list-hover">Ramen is also a Japanese food. The usual ramen is tonkotsu soup and miso soup, which I also highly recommend. Other ramen with spicy curry soup or fish soup, friends who are interested must go to Japan to taste.</p>
         </li>
 
         <li class="food-list-item">
-          <img src="" alt="{{菜品图示}}">
+          <img src="assets/images/tamagoyaki.jpg" alt="Tamagoyaki">
           <h4>Tamagoyaki</h4>
-          <p>Sukiyaki is a Japanese-style hot pot that is generally made from meat (usually beef) plus other ingredients such as vegetables and other meatballs. Unlike Chinese hot pot, Sukiyaki is usually not spicy and will be served with unstirred raw eggs. Usually, food will dip the raw eggs after cooking, then eat.</p>
+          <p class="food-list-hover">Sukiyaki is a Japanese-style hot pot that is generally made from meat (usually beef) plus other ingredients such as vegetables and other meatballs. Unlike Chinese hot pot, Sukiyaki is usually not spicy and will be served with unstirred raw eggs. Usually, food will dip the raw eggs after cooking, then eat.</p>
         </li>
 
         <li class="food-list-item">
-          <img src="" alt="{{菜品图示}}">
+          <img src="assets/images/tempura.jpg" alt="Tempura">
           <h4>Tempura</h4>
-          <p>Tempura is a Japanese dish made by frying vegetables or seafood. Common tempura is made from shrimp, but there are other types of tempura, such as scallop tempura. Must-eat food when going to Japan</p>
+          <p class="food-list-hover">Tempura is a Japanese dish made by frying vegetables or seafood. Common tempura is made from shrimp, but there are other types of tempura, such as scallop tempura. Must-eat food when going to Japan</p>
         </li>
 
         <li class="food-list-item">
-          <img src="" alt="{{菜品图示}}">
+          <img src="assets/images/takoyaki.jpg" alt="Takoyaki">
           <h4>Takoyaki</h4>
-          <p>Tempura is a Japanese dish made by frying vegetables or seafood. Common tempura is made from shrimp, but there are other types of tempura, such as scallop tempura, a Must-eat food when going to Japan.</p>
+          <p class="food-list-hover">Tempura is a Japanese dish made by frying vegetables or seafood. Common tempura is made from shrimp, but there are other types of tempura, such as scallop tempura, a Must-eat food when going to Japan.</p>
         </li>
       </ul>
     </section>
