@@ -25,7 +25,7 @@ include ("top.php");
 
           <li class="food-intro-item">
             <h2>The art of eating is very important in Japanese food culture</h2>
-            <p>Friends who have been to Japan should resonate with Japanese cuisine. It is delicious than Japanese food. Japanese cuisine is more pleasing to the eye. Through careful matching, the Japanese made the food shape perfect, giving a visually significant impact. Even the sashimi sold in the supermarket is quite smart in shape and color.</p>
+            <p>Friends who have been to Japan should resonate with Japanese cuisine. Japanese food is declicious, but Japanese cuisine is more pleasing to the eye. Through careful matching, the Japanese made the food shape perfect, giving a visually significant impact. Even the sashimi sold in the supermarket is quite smart in shape and color.</p>
             <img src="assets/images/food_art.jpg" alt="Food-3">
           </li>
         </ol>
