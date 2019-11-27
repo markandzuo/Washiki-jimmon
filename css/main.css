@@ -1,6 +1,6 @@
 /*Global*/
 * {
-	transition-duration: 0.5s;
+	transition-duration: 1.0s;
   font-family: sans-serif;
 }
 
@@ -143,6 +143,15 @@ body{
 
 .food-list-container{
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: 25% 25% 25% 25%;
   grid-gap: 10px;
+}
+
+
+.food-list-hover{
+  display: none;
+}
+
+.food-list-item:hover .food-list-hover{
+  display: block;
 }
