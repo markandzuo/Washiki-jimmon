@@ -28,7 +28,7 @@ include ("top.php");
 
 	<section class="intro view">
 		<h2>View</h2>
-		<p>【Introduction about Japaese views】</p>
+		<p>Japan's landscape culture is very characteristic. In four different seasons a year, Japan always brings different beautiful scenery according to different seasons. Japan's landscape culture is very characteristic. In four different seasons a year, Japan always brings different beautiful scenery according to different seasons. In spring, Japanese cherry blossoms bloom. In summer, Japan's fireworks displays and kimono girls will amaze you. In autumn, the maple leaves of Jigokudani are magnificent. Snow mountain hot spring in Hokkaido in winter. Whenever you come to Japan, you can always experience the beautiful scenery.</p>
 		<figure>
 			<img src="assets/images/example.jpg" alt="Loading(●ˇ∀ˇ●)" class="intro-cover">
 		</figure>
