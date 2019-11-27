@@ -179,6 +179,8 @@ body{
 
 .food-list-hover{
   display: none;
+  width: 90%;
+  margin: 10px auto;
 }
 
 .food-list-item:hover .food-list-hover{
