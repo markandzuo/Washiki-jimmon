@@ -17,10 +17,10 @@ include ("top.php");
           </li>
 
           <li class="food-intro-item">
-            <img src="" alt="Food-2">
             <h2>The Japanese value the "balance" of food</h2>
             <p>Japanese cuisine is also known as "Washoku". This refers to the harmonious integration of various foods in Japanese culture. In China, there is a saying of "yin and yang". In addition to the influence of China, the Japanese also believe that food is also divided into "yin" and "yang". The combination of food needs to ensure the balance of "yin and yang".</p>
             <p>On the other hand, seasonality is also one of the important definitions of “Washoku”. Seasonal circulation deepens into Japanese culture, which is also reflected in their dress and food. Japanese people respect nature. They don't like cross-season food. They think that specific agricultural products can be harvested at specific time and made into food to ensure their nutrition and flavor.</p>
+            <img src="" alt="Food-2">
           </li>
 
           <li class="food-intro-item">
@@ -33,33 +33,33 @@ include ("top.php");
  
     <section>
       <h3>Japanese traditional food recommendation</h3>
-      <ul>
-        <li>
-            <img src="assets/images/sushi.jpg" alt="sushi">
+      <ul class="food-list-container">
+        <li class="food-list-item">
+          <img src="" alt="{{菜品图示}}">
           <h4>Sushi and Sashimi</h4>
           <p>One of my favorite Japanese food is also the most famous Japanese food. The common ones are salmon and tuna sushi and sashimi. Personally recommend traditional salmon sushi and caviar sushi. If you don't like raw food, try eel sashimi. Sashimi made from cooked food is also very common.</p>
         </li>
 
-        <li>
-            <img src="assets/images/ramen.jpg" alt="ramen">
+        <li class="food-list-item">
+          <img src="" alt="{{菜品图示}}">
           <h4>Ramen</h4>
           <p>Ramen is also a Japanese food. The usual ramen is tonkotsu soup and miso soup, which I also highly recommend. Other ramen with spicy curry soup or fish soup, friends who are interested must go to Japan to taste.</p>
         </li>
 
-        <li>
-            <img src="assets/images/tamagoyaki.jpg" alt="tamagoyaki">
+        <li class="food-list-item">
+          <img src="" alt="{{菜品图示}}">
           <h4>Tamagoyaki</h4>
           <p>Sukiyaki is a Japanese-style hot pot that is generally made from meat (usually beef) plus other ingredients such as vegetables and other meatballs. Unlike Chinese hot pot, Sukiyaki is usually not spicy and will be served with unstirred raw eggs. Usually, food will dip the raw eggs after cooking, then eat.</p>
         </li>
 
-        <li>
-            <img src="assets/images/tempura.jpg" alt="tempura">
+        <li class="food-list-item">
+          <img src="" alt="{{菜品图示}}">
           <h4>Tempura</h4>
           <p>Tempura is a Japanese dish made by frying vegetables or seafood. Common tempura is made from shrimp, but there are other types of tempura, such as scallop tempura. Must-eat food when going to Japan</p>
         </li>
 
-        <li>
-            <img src="assets/images/takoyaki.jpg" alt="takoyaki">
+        <li class="food-list-item">
+          <img src="" alt="{{菜品图示}}">
           <h4>Takoyaki</h4>
           <p>Tempura is a Japanese dish made by frying vegetables or seafood. Common tempura is made from shrimp, but there are other types of tempura, such as scallop tempura, a Must-eat food when going to Japan.</p>
         </li>
