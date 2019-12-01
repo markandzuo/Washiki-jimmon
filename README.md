@@ -24,7 +24,11 @@ Finally project of CS008 - 『と』じっもん - Japanese Culture
 - [ ] Wireframe `MARK` | `Andrew`
     - [ ] 桌面版 
     - [ ] 手机版 
-    - [ ] 平板版(optional) 
+    - [ ] 平板版(optional)
+- [ ] Presentation `MARK` | `Andrew` | `KAMIKU`
+    - [ ] 项目介绍
+    - [ ] 样品展示
+    - [ ] 录制 | 后期
 - [ ] index `KAMIKU`
     - [ ] 封面
     - [ ] 介绍
